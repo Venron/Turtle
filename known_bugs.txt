@@ -1,0 +1,14 @@
+1. If the user is connected to one chat server, he can't connect in another window.
+	If he selects the same server on the main window again, the Connect button must be grayed-out
+2. If a server is offline / not reachable, let the user know instead of just letting nothing happen
+3. If the user closes the window and doesn't exit with "--quit" somehow detect this situation
+	and delete him from the user list.
+4. Let the user know if the Authentification Server is not running
+
+
+			FUTURE FEATURES
+			---------------
+			
+1. Show all connected users at the right of the chat window.
+2. Ping all servers (and authentification servers) at the main window, so the users
+	can see which are online and which are not (Server / Authentification Server)
