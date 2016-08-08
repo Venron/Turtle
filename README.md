@@ -1,4 +1,4 @@
-Mein erster Versuch an einem eigenen IRC-artigen Chat Client. Da die Softwareentwicklung in meinem aktuellen Studium etwas weniger behandelt wird, als ich es mir eigentlich wünschen würde, habe ich mir viel selbst beibringen müssen, somit bitte ich um Nachsicht, wenn nicht immer eine klare Struktur erkennbar ist und ebenfalls nicht immer die erwartete Funktionalität geboten ist.
+<b>Vorwort.</b>Mein erster Versuch an einem eigenen IRC-artigen Chat Client. Da die Softwareentwicklung in meinem aktuellen Studium etwas weniger behandelt wird, als ich es mir eigentlich wünschen würde, habe ich mir viel selbst beibringen müssen, somit bitte ich um Nachsicht, wenn nicht immer eine klare Struktur erkennbar ist und ebenfalls nicht immer die erwartete Funktionalität geboten ist.
 
 <b>Funktionsweise:</b>
   - Die Serverseite sieht einen Authentifizierungs- und eigentlichen Chat Server vor
@@ -13,4 +13,4 @@ Mein erster Versuch an einem eigenen IRC-artigen Chat Client. Da die Softwareent
 Der auslösende Fehler ist identifiziert und wird ASAP behoben.
 
 
-Die zugehörige Serversoftware findet sich unter: 
+Die zugehörige Serversoftware findet sich unter: https://github.com/Venron/TurtleCMD
