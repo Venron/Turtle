@@ -1,4 +1,0 @@
-Turtle Server Home@127.0.0.1@55021
-Turtle Server Work@37.324.12.33@55080
-HS AlbSig@141.87.21.29@55073
-WebRepository@38.332.22.1@55073
